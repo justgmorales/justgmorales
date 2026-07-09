@@ -3,7 +3,7 @@ cs grad focused on systems, infrastructure, and backend engineering<br>
 former QA intern @ [SHI International](https://www.shi.com) - CI/CD automation and MCP integration<br>
 
 - 🌱 currently deepening my cloud and microservices knowledge
-- 🎛️ my side projects touch on music, video, and programming
+- 🎛️ my side projects touch on audio, video, and programming
 - 📫 email: [justgmorales@gmail.com](mailto:justgmorales@gmail.com)
 - 💼 linkedin: [@justgmorales](https://linkedin.com/in/justgmorales)
 
